@@ -1,6 +1,4 @@
-import React from 'react'
-import Addproduct from './addproduct';
-import Login from './Login';
+
 import { Navigate } from 'react-router-dom';
 
 const Privetpage = ({children}) => {
